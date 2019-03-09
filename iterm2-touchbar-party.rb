@@ -3,8 +3,8 @@ require 'formula'
 class Iterm2TouchbarParty < Formula
   desc "iTerm2 Touchbar Party is a combination of scripts that make your Mac's Touchbar userful when using iTerm2"
   homepage "https://github.com/snooc/iterm2-touchbar-party"
-  url "https://github.com/snooc/iterm2-touchbar-party/archive/v0.1.0.tar.gz"
-  sha256 "0081e427fd08b8f97b06060113dfae7f9f6d25cc284cdb390764ba6a8593c462"
+  url "https://github.com/snooc/iterm2-touchbar-party/archive/v0.1.1.tar.gz"
+  sha256 "566a33cc7eee5d7d3e8e5e4107e5c3e11d9355aab12be23d24e976ac8eae4201"
   head "https://github.com/snooc/iterm2-touchbar-party.git"
 
   bottle :unneeded
